@@ -1,5 +1,5 @@
 #  Count Up (and Down), plain and simple
-<img width="888" alt="image" src="https://github.com/Girolamone/s2i-Counter-Project/blob/main/Images/ScreenCounterMin.png">
+<img alt="image plain and simple" src="https://github.com/Girolamone/s2i-Counter-Project/blob/main/Images/ScreenCounterMin.png">
 
 ## Used Languages
 * HTML

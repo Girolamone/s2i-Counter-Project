@@ -16,4 +16,4 @@ This counter is a project for the Javascript Basics course at start2impact Unive
 
 
 ## Go and Try it, Istant Turnkey Service.
-<a href="https://plainandsimplecounter.netlify.app/">COUNTER PLAIN AND SIMPLE</a>🗝️
+🗝️<a href="https://plainandsimplecounter.netlify.app/">COUNTER PLAIN AND SIMPLE</a>🗝️
